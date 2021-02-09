@@ -1,0 +1,13 @@
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.exe
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.deps.json
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.json
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.dev.json
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csprojAssemblyReference.cache
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfoInputs.cache
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfo.cs
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\melis\source\repos\melalcantara\EstructurasDatos\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.genruntimeconfig.cache
